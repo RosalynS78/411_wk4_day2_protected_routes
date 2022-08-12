@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/411_wk4_day2_protected_routes/static/css/main.2956cb2f.css",
+    "main.js": "/411_wk4_day2_protected_routes/static/js/main.79385c26.js",
+    "index.html": "/411_wk4_day2_protected_routes/index.html",
+    "main.2956cb2f.css.map": "/411_wk4_day2_protected_routes/static/css/main.2956cb2f.css.map",
+    "main.79385c26.js.map": "/411_wk4_day2_protected_routes/static/js/main.79385c26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2956cb2f.css",
+    "static/js/main.79385c26.js"
+  ]
+}
